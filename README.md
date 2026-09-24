@@ -93,6 +93,10 @@ GitHub Pages настроен на публикацию из ветки `main`, 
 - Практическая работа 1: создан Git-репозиторий, опубликован проект на GitHub Pages.
 - Практическая работа 2: создан HTML-каркас стартовой страницы и выполнено базовое CSS-оформление.
 
+## Pull Request практической работы №2
+
+[Add semantic HTML structure and base CSS styles — PR №2](https://github.com/ashurvel-rgb/kr1-html-css-shop/pull/2).
+
 ## Что показать по практической работе №2
 
 - `index.html`: один `main`, элементы `header`, `nav`, `section`, `article`, `aside`, `footer`.
