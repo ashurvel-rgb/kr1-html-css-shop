@@ -23,8 +23,8 @@
 
 ## Автор
 
-ФИО: Велиханов Ашурбег Мадрудинович
-Группа: ЭФБО 17-25
+- ФИО: Велиханов Ашурбег Мадрудинович
+- Группа: ЭФБО 17-25
 
 ## Текущий статус
 
@@ -44,3 +44,28 @@
 ## Ссылка на опубликованный проект
 
 GitHub Pages: https://ashurvel-rgb.github.io/kr1-html-css-shop/
+
+## Репозиторий и Pull Request
+
+- [Репозиторий GitHub](https://github.com/ashurvel-rgb/kr1-html-css-shop).
+- [Объединённый Pull Request №1](https://github.com/ashurvel-rgb/kr1-html-css-shop/pull/1).
+- [Изменения в Pull Request](https://github.com/ashurvel-rgb/kr1-html-css-shop/pull/1/files).
+
+## Проверка в Visual Studio Code
+
+1. Открыть папку проекта `kr1-html-css-shop`.
+2. Показать `index.html`: структура страницы и секция «О проекте».
+3. Показать `css/style.css`: базовое оформление и стили секций.
+4. Показать `.gitignore` и описание проекта в `README.md`.
+5. В терминале VS Code выполнить команды:
+
+```sh
+git status
+git log --oneline --graph --decorate
+git remote -v
+```
+
+6. Открыть ссылки на Pull Request и опубликованный сайт из этого README.
+
+GitHub Pages настроен на публикацию из ветки `main`, папка `/ (root)`.
+Папка `images/` подготовлена для следующих занятий; файл `.gitkeep` сохраняет её в Git.
