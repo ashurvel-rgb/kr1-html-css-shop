@@ -71,6 +71,7 @@ git remote -v
 
 - [Репозиторий GitHub](https://github.com/ashurvel-rgb/kr1-html-css-shop)
 - [Опубликованный сайт GitHub Pages](https://ashurvel-rgb.github.io/kr1-html-css-shop/)
+- Фото для Open Graph-превью: [Unsplash](https://unsplash.com/photos/VlgJiE4KQKg).
 
 ## Автор
 
